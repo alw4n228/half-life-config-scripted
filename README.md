@@ -1,2 +1,2 @@
 # half-life-config-scripted
-my setap
+my set up
